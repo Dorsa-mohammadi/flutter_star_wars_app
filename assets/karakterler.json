@@ -1,0 +1,114 @@
+{
+  "results": [
+    {
+      "name": "Luke Skywalker",
+      "height": "172",
+      "mass": "77",
+      "hair_color": "blond",
+      "skin_color": "fair",
+      "eye_color": "blue",
+      "birth_year": "19BBY",
+      "gender": "male",
+      "image": "assets/images/luke.png"
+    },
+    {
+      "name": "Leia Organa",
+      "height": "150",
+      "mass": "49",
+      "hair_color": "brown",
+      "skin_color": "light",
+      "eye_color": "brown",
+      "birth_year": "19BBY",
+      "gender": "female",
+      "image": "assets/images/leia.png"
+    },
+    {
+      "name": "Darth Vader",
+      "height": "202",
+      "mass": "136",
+      "hair_color": "none",
+      "skin_color": "white",
+      "eye_color": "yellow",
+      "birth_year": "41.9BBY",
+      "gender": "male",
+      "image": "assets/images/vader.png"
+    },
+    {
+      "name": "Yoda",
+      "height": "66",
+      "mass": "17",
+      "hair_color": "white",
+      "skin_color": "green",
+      "eye_color": "brown",
+      "birth_year": "896BBY",
+      "gender": "male",
+      "image": "assets/images/yoda.png"
+    },
+    {
+      "name": "Obi-Wan Kenobi",
+      "height": "182",
+      "mass": "77",
+      "hair_color": "auburn",
+      "skin_color": "fair",
+      "eye_color": "blue-gray",
+      "birth_year": "57BBY",
+      "gender": "male",
+      "image": "assets/images/obiwan.png"
+    },
+    {
+      "name": "Han Solo",
+      "height": "180",
+      "mass": "80",
+      "hair_color": "brown",
+      "skin_color": "fair",
+      "eye_color": "brown",
+      "birth_year": "29BBY",
+      "gender": "male",
+      "image": "assets/images/han_solo.png"
+    },
+    {
+      "name": "Chewbacca",
+      "height": "228",
+      "mass": "112",
+      "hair_color": "brown",
+      "skin_color": "unknown",
+      "eye_color": "blue",
+      "birth_year": "200BBY",
+      "gender": "male",
+      "image": "assets/images/chewbacca.png"
+    },
+    {
+      "name": "R2-D2",
+      "height": "96",
+      "mass": "32",
+      "hair_color": "none",
+      "skin_color": "white, blue",
+      "eye_color": "red",
+      "birth_year": "33BBY",
+      "gender": "n/a",
+      "image": "assets/images/r2d2.png"
+    },
+    {
+      "name": "C-3PO",
+      "height": "167",
+      "mass": "75",
+      "hair_color": "none",
+      "skin_color": "gold",
+      "eye_color": "yellow",
+      "birth_year": "112BBY",
+      "gender": "n/a",
+      "image": "assets/images/c3po.png"
+    },
+    {
+      "name": "Padmé Amidala",
+      "height": "165",
+      "mass": "45",
+      "hair_color": "brown",
+      "skin_color": "light",
+      "eye_color": "brown",
+      "birth_year": "46BBY",
+      "gender": "female",
+      "image": "assets/images/padme.png"
+    }
+  ]
+}
