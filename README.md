@@ -24,12 +24,15 @@ Yerel JSON’dan karakter verilerini okuyarak listeleme, detay gösterimi, favor
 
 📸 Ekran Görüntüleri
 🟦 Giriş / Liste Ekranı
+
 <img src="screenshots/2.JPG" width="350">
 
 🟩 Karakter Detay Ekranı
+
 <img src="screenshots/1.JPG" width="350">
 
 ❤️ Favoriler Sayfası
+
 <img src="screenshots/3.JPG" width="350">
 
 
